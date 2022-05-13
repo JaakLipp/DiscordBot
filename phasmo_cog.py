@@ -18,5 +18,5 @@ class phasmo_cog(commands.Cog):
     '''
     @commands.command(name='item')
     async def item(self, ctx):
-        await ctx.send('You get' + random.choice(self.list_of_items))
+        await ctx.send('You get ' + random.choice(self.list_of_items))
 
