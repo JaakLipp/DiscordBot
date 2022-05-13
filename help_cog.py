@@ -9,6 +9,7 @@ class help_cog(commands.Cog):
 ```
 General commands:
 !help - Displays all the available commands
+!item - Gets an item to use in Phasmophobia
 !patch - Displays the latest patch notes
 !play - Plays a song
 !q - Displays the current music queue
