@@ -7,6 +7,7 @@ from help_cog import help_cog
 from music_cog import music_cog
 from patch_cog import patch_cog
 
+#set the command prefix
 bot = commands.Bot(command_prefix='!')
 
 #remove the default help command so that we can write out own
